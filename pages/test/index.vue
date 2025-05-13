@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Test Page</h1>
+        <h1>Test Page 1</h1>
         <p>This is a test page.</p>
         <nuxt-link to="/">Go back to Home</nuxt-link>
         <nuxt-link to="/about">Go to About</nuxt-link>
